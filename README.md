@@ -1,16 +1,19 @@
-# GENDER-BASED-VIOLENCE-IN-KE
-This project analyzes survey data on gender violence in Kenya, focusing on:  
+# GENDER-BASED-VIOLENCE-IN-KE 
+Gender-based violence remains a pressing issue in Kenya, and understanding the societal attitudes surrounding it is crucial for policy development and advocacy. This project explores survey data to uncover trends in justification for gender violence and its relation to demographic factors, focusing on:  
 - The most common reasons why women experience gender-based violence  
 - Differences in attitudes toward gender violence between men and women  
 - The most common forms of violence  
 - The impact of demographics such as age, education, and residence on attitudes toward gender violence  
 
 ## 📊 Data & Methodology  
-- The dataset contains responses from individuals on various aspects of gender violence.  
-- **Python** is used for data analysis, including:  
-  - **Descriptive statistics** to identify trends  
-  - **Visualization (Matplotlib & Seaborn)** to present insights  
-  - **Statistical tests (T-tests)** to compare demographic groups  
+The dataset was sourced from Kaggle:https://www.kaggle.com/datasets/andrewmvd/violence-against-women-and-girls
+It includes responses from individuals on gender violence across different age groups, education levels, and residential settings. Each row represents a survey response, with key columns such as:
+
+Gender: Male or Female
+Demographics Question: The category of the respondent (e.g., Age, Education, Residence)
+Demographics Response: The specific response (e.g., "Higher Education", "Rural")
+Question: The specific survey question (e.g., "Is it justified for a man to beat his wife if she neglects the children?")
+Value: The percentage of respondents who supported the statement. 
 
 ## 🔍 Key Findings  
 - **Most common justification for violence**: *Neglecting children (30.98% support)*  
