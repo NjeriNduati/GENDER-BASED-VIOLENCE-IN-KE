@@ -1,4 +1,7 @@
 # GENDER-BASED-VIOLENCE-IN-KE 
+<p align="center">
+  <img src="![image](https://github.com/user-attachments/assets/1b4f3a32-a648-4329-94d5-50df6138c5c1)" width="800">
+</p>
 Gender-based violence remains a pressing issue in Kenya, and understanding the societal attitudes surrounding it is crucial for policy development and advocacy. This project explores survey data to uncover trends in justification for gender violence and its relation to demographic factors, focusing on:  
 - The most common reasons why women experience gender-based violence  
 - Differences in attitudes toward gender violence between men and women  
